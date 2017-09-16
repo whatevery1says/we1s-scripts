@@ -1,0 +1,1 @@
+\s*Copyright \d{4} The News? York Times Company\s*(?:\r\n)*\s*(?:All Rights Reserved)?
