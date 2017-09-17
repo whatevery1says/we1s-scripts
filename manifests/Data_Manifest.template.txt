@@ -1,0 +1,8 @@
+{
+  "_id": "{{ id }}",
+  "path": ",Corpus,New_York_Times,RawData,",
+  "content": "{{ content }}",  
+  "authors": [],
+  "mimeType": "text/plain",
+  "documentType": ""
+}
